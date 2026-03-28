@@ -1,0 +1,32 @@
+.book-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  max-width: 28rem;
+  background: #fff;
+}
+
+.book-card__title {
+  margin: 0 0 0.35rem;
+  font-size: 1.15rem;
+}
+
+.book-card__author {
+  margin: 0 0 0.75rem;
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.book-card__meta {
+  margin: 0.35rem 0 0;
+  font-size: 0.9rem;
+}
+
+.book-card__label {
+  font-weight: 600;
+  color: #333;
+}
+
+.book-card__rating {
+  letter-spacing: 0.05em;
+}
